@@ -1,16 +1,11 @@
 {
-  "name": "ossamaaourfi",
-  "version": "1.0.1",
-  "description": "A lightweight and efficient Node.js module for detecting the language of a given text or phrase. Supports English, French, Spanish, German, Italian, and Portuguese.",
+  "name": "ossamaaourfi-main",
+  "version": "1.0.0",
+  "description": "- Easy to use. - Lightweight with no heavy dependencies. - Supports popular languages.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "lahcen aglagl",
-  "license": "ISC",
-  "dependencies": {
-    "nodemon": "^3.1.7"
-  }
+  "author": "ossamaaourfi",
+  "license": "MIT"
 }
